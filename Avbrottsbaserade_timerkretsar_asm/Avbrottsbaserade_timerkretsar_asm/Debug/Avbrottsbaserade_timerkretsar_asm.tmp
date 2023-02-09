@@ -1,0 +1,48 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\Debug\Avbrottsbaserade_timerkretsar_asm.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Avbrottsbaserade_timerkretsar_asm.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Avbrottsbaserade_timerkretsar_asm.map</FILE>
+  <FILE>Avbrottsbaserade_timerkretsar_asm.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <counter0><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>25</LINE></counter0>
+  <counter1><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>26</LINE></counter1>
+  <counter2><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>27</LINE></counter2>
+  <main><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>108</LINE></main>
+  <ISR_PCINT0><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>51</LINE></ISR_PCINT0>
+  <ISR_TIMER2><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>74</LINE></ISR_TIMER2>
+  <ISR_TIMER1><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>85</LINE></ISR_TIMER1>
+  <ISR_TIMER0><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>96</LINE></ISR_TIMER0>
+  <check_reset_button><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>55</LINE></check_reset_button>
+  <check_button1><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>61</LINE></check_button1>
+  <system_reset><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>170</LINE></system_reset>
+  <check_button2><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>67</LINE></check_button2>
+  <timer1_toggle><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>143</LINE></timer1_toggle>
+  <check_button_end><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>71</LINE></check_button_end>
+  <TIMER2_end><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>81</LINE></TIMER2_end>
+  <TIMER1_end><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>92</LINE></TIMER1_end>
+  <TIMER0_end><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>104</LINE></TIMER0_end>
+  <setup><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>115</LINE></setup>
+  <main_loop><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>111</LINE></main_loop>
+  <timer1_toggle_end><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>152</LINE></timer1_toggle_end>
+  <timer2_toggle><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>157</LINE></timer2_toggle>
+  <timer2_toggle_end><FILE>C:\Users\Marcus\Documents\Atmel Studio\7.0\Assembler projekt\Avbrottsbaserade_timerkretsar_asm\Avbrottsbaserade_timerkretsar_asm\main.asm</FILE><LINE>166</LINE></timer2_toggle_end>
+ </LABELS>
+</ASSEMBLER_INFO>
